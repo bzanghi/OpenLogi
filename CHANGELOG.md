@@ -7,6 +7,14 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.8.19] - 2026-10-26
+
+### Fixed
+
+- *(agent)* recover mouse capture across Bluetooth and Bolt switches ([#1746](https://github.com/AprilNEA/OpenLogi/pull/1746))
+- *(overlay)* keep the Windows Actions Ring from taking the foreground ([#2053](https://github.com/AprilNEA/OpenLogi/pull/2053))
+- *(desktop)* mark the selected pill with the accent border ([#2047](https://github.com/AprilNEA/OpenLogi/pull/2047))
+
 ## [0.8.18] - 2026-10-25
 
 ### Added
